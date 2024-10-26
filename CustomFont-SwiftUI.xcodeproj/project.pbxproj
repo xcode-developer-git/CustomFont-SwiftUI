@@ -11,6 +11,18 @@
 		CBD5A2002CCD02F500FAE0B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A1FF2CCD02F500FAE0B7 /* ContentView.swift */; };
 		CBD5A2022CCD02F600FAE0B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2012CCD02F600FAE0B7 /* Assets.xcassets */; };
 		CBD5A2052CCD02F600FAE0B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2042CCD02F600FAE0B7 /* Preview Assets.xcassets */; };
+		CBD5A2452CCD325D00FAE0B7 /* QuoteTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A2442CCD325D00FAE0B7 /* QuoteTextView.swift */; };
+		CBD5A2472CCD333800FAE0B7 /* FontNameCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A2462CCD333800FAE0B7 /* FontNameCardView.swift */; };
+		CBD5A24A2CCD338800FAE0B7 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A2492CCD338800FAE0B7 /* Quote.swift */; };
+		CBD5A24C2CCD33B500FAE0B7 /* QuoteProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A24B2CCD33B500FAE0B7 /* QuoteProvider.swift */; };
+		CBD5A24E2CCD340B00FAE0B7 /* ScrollableQuoteTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A24D2CCD340B00FAE0B7 /* ScrollableQuoteTabView.swift */; };
+		CBD5A2502CCD349A00FAE0B7 /* QuoteGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A24F2CCD349A00FAE0B7 /* QuoteGradientView.swift */; };
+		CBD5A2522CCD355200FAE0B7 /* ChannelBrandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD5A2512CCD355200FAE0B7 /* ChannelBrandingView.swift */; };
+		CBD5A25A2CCD3EB300FAE0B7 /* Sprat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2552CCD3EB300FAE0B7 /* Sprat-Bold.otf */; };
+		CBD5A25B2CCD3EB300FAE0B7 /* Array-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2562CCD3EB300FAE0B7 /* Array-Bold.otf */; };
+		CBD5A25C2CCD3EB300FAE0B7 /* Nippo-Variable.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2572CCD3EB300FAE0B7 /* Nippo-Variable.ttf */; };
+		CBD5A25D2CCD3EB300FAE0B7 /* CabinSketch-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2582CCD3EB300FAE0B7 /* CabinSketch-Bold.ttf */; };
+		CBD5A25E2CCD3EC000FAE0B7 /* Teko-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBD5A2542CCD3EB300FAE0B7 /* Teko-VariableFont_wght.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,19 @@
 		CBD5A1FF2CCD02F500FAE0B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CBD5A2012CCD02F600FAE0B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBD5A2042CCD02F600FAE0B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CBD5A20E2CCD049700FAE0B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		CBD5A2442CCD325D00FAE0B7 /* QuoteTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteTextView.swift; sourceTree = "<group>"; };
+		CBD5A2462CCD333800FAE0B7 /* FontNameCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontNameCardView.swift; sourceTree = "<group>"; };
+		CBD5A2492CCD338800FAE0B7 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		CBD5A24B2CCD33B500FAE0B7 /* QuoteProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteProvider.swift; sourceTree = "<group>"; };
+		CBD5A24D2CCD340B00FAE0B7 /* ScrollableQuoteTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollableQuoteTabView.swift; sourceTree = "<group>"; };
+		CBD5A24F2CCD349A00FAE0B7 /* QuoteGradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteGradientView.swift; sourceTree = "<group>"; };
+		CBD5A2512CCD355200FAE0B7 /* ChannelBrandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelBrandingView.swift; sourceTree = "<group>"; };
+		CBD5A2542CCD3EB300FAE0B7 /* Teko-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		CBD5A2552CCD3EB300FAE0B7 /* Sprat-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sprat-Bold.otf"; sourceTree = "<group>"; };
+		CBD5A2562CCD3EB300FAE0B7 /* Array-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Array-Bold.otf"; sourceTree = "<group>"; };
+		CBD5A2572CCD3EB300FAE0B7 /* Nippo-Variable.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nippo-Variable.ttf"; sourceTree = "<group>"; };
+		CBD5A2582CCD3EB300FAE0B7 /* CabinSketch-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CabinSketch-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +76,10 @@
 		CBD5A1FC2CCD02F500FAE0B7 /* CustomFont-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CBD5A2532CCD3E9800FAE0B7 /* Fonts */,
+				CBD5A2482CCD337A00FAE0B7 /* Models */,
+				CBD5A2412CCD31B200FAE0B7 /* Views */,
+				CBD5A20E2CCD049700FAE0B7 /* Info.plist */,
 				CBD5A1FD2CCD02F500FAE0B7 /* CustomFont_SwiftUIApp.swift */,
 				CBD5A1FF2CCD02F500FAE0B7 /* ContentView.swift */,
 				CBD5A2012CCD02F600FAE0B7 /* Assets.xcassets */,
@@ -65,6 +94,39 @@
 				CBD5A2042CCD02F600FAE0B7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CBD5A2412CCD31B200FAE0B7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CBD5A2512CCD355200FAE0B7 /* ChannelBrandingView.swift */,
+				CBD5A2462CCD333800FAE0B7 /* FontNameCardView.swift */,
+				CBD5A24F2CCD349A00FAE0B7 /* QuoteGradientView.swift */,
+				CBD5A2442CCD325D00FAE0B7 /* QuoteTextView.swift */,
+				CBD5A24D2CCD340B00FAE0B7 /* ScrollableQuoteTabView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CBD5A2482CCD337A00FAE0B7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CBD5A2492CCD338800FAE0B7 /* Quote.swift */,
+				CBD5A24B2CCD33B500FAE0B7 /* QuoteProvider.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CBD5A2532CCD3E9800FAE0B7 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				CBD5A2562CCD3EB300FAE0B7 /* Array-Bold.otf */,
+				CBD5A2582CCD3EB300FAE0B7 /* CabinSketch-Bold.ttf */,
+				CBD5A2572CCD3EB300FAE0B7 /* Nippo-Variable.ttf */,
+				CBD5A2552CCD3EB300FAE0B7 /* Sprat-Bold.otf */,
+				CBD5A2542CCD3EB300FAE0B7 /* Teko-VariableFont_wght.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +188,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBD5A2052CCD02F600FAE0B7 /* Preview Assets.xcassets in Resources */,
+				CBD5A25C2CCD3EB300FAE0B7 /* Nippo-Variable.ttf in Resources */,
+				CBD5A25A2CCD3EB300FAE0B7 /* Sprat-Bold.otf in Resources */,
+				CBD5A25E2CCD3EC000FAE0B7 /* Teko-VariableFont_wght.ttf in Resources */,
+				CBD5A25D2CCD3EB300FAE0B7 /* CabinSketch-Bold.ttf in Resources */,
+				CBD5A25B2CCD3EB300FAE0B7 /* Array-Bold.otf in Resources */,
 				CBD5A2022CCD02F600FAE0B7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +206,13 @@
 			files = (
 				CBD5A2002CCD02F500FAE0B7 /* ContentView.swift in Sources */,
 				CBD5A1FE2CCD02F500FAE0B7 /* CustomFont_SwiftUIApp.swift in Sources */,
+				CBD5A2522CCD355200FAE0B7 /* ChannelBrandingView.swift in Sources */,
+				CBD5A2472CCD333800FAE0B7 /* FontNameCardView.swift in Sources */,
+				CBD5A24C2CCD33B500FAE0B7 /* QuoteProvider.swift in Sources */,
+				CBD5A24A2CCD338800FAE0B7 /* Quote.swift in Sources */,
+				CBD5A24E2CCD340B00FAE0B7 /* ScrollableQuoteTabView.swift in Sources */,
+				CBD5A2502CCD349A00FAE0B7 /* QuoteGradientView.swift in Sources */,
+				CBD5A2452CCD325D00FAE0B7 /* QuoteTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +348,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"CustomFont-SwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CustomFont-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -302,6 +377,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"CustomFont-SwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CustomFont-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
